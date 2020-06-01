@@ -1,0 +1,1 @@
+This blockchain project is for learning purposes. This project is derived from the project in the book Learn Blockchain Programming with Javascript from Packt Publishing.
